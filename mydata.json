@@ -1,0 +1,19 @@
+{
+"todolocationapp":{
+	"Does1" :{
+		"titledoes" : "Washerman",
+		"descdoes" : "Collect Clothes from Dhobi",
+		"datadoes" : "Tommorow"
+	},
+	"Does2" :{
+		"titledoes" : "Go Market",
+		"descdoes" : "Go to Market",
+		"datadoes" : "Feb 23"
+	},
+	"Does3" :{
+		"titledoes" : "Medicines",
+		"descdoes" : "Go to pharmacy to collect medicines",
+		"datadoes" : "Tommorow"
+	}
+}
+}
