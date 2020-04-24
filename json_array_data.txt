@@ -1,0 +1,836 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CuQEVQIAAJ4mtEJJbhHKMzc3cvbiXEAwa8ryDHn1D3HnCFRYhZeHR0RP16v9NVNjXk9nBMOFe4zoIQ_L2d6cAtTEcw6gfCnYZTyGbh69C-zNvS5JAmRvZWJrh_1MEyjQ5nOc7tuoov-sap-XUYG6Fja2oms69C3MeEZlUFtn3zz9jb_uAxkZGeiE90cxe_t_Yv-O2DL47m35b-XBrLlDf5T00GWVqjXdfcpC4lYdP7SOcHH1VsowNRWgV9NY4KKsaiDLtqZSg7XS9nMvElutPrhjuVBPXJ8fyQ7UOFUwIFYqbTkkRZnrLh7kgYT_5yhcPWzGTe8g4Q0nEtIwllE5utqXbbMK3dKpfPuD6skL8mOFC-cAyu5DcZ3ptwhEJeb6EqzvaeVMJAfYiuk4A7kkTEd8yOVRL95HbI0N6yMWLmTmblY1iAJlBrI5qiqj55bOOmLRtTfb0gs9QH7LZ7Hyszq0hTnLJRHbqc-enXoFupo1hS9uM77Q7Hi8XvPd9zpF6g1k_k2CtN-jQb91c8G4e9K9EsxM06tLKLcBm0cp9Umbg7dKsSNUPVC3GJiLVHIC0dhNGWdbhTCgwhyBcBNmB3F3d3kcgEkJp0L1E1ImpYGMGGV_Q4BrA-SvP24zoMCGuFUpg4zzts1Jhu0y4vCcJDhWg34o79Q3Ky8Pels-HKvRJI4Ld_8hmo1l3RImDzuDjSzS0z4nd2ROpfa9jU7Zz6wHQHrTrtim1Cs_YLQflASRT-Se-iKt7Exequs2KsC2OtQslIaEF8-vgjCRiOP7PVv1d673CakZSD73Ho9B_uslddu-s7aKEhDeupCl1Uh10dI1mbqg9XUoGhR_FTIY0U2-CqGDucZN4LRXzwTxSw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5250495,
+               "lng" : 84.36079850000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5350326,
+                  "lng" : 84.37680589999999
+               },
+               "southwest" : {
+                  "lat" : 26.5150656,
+                  "lng" : 84.34479109999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "0f398c17ca5562fb665ac567fd341aa3e54d7f06",
+         "name" : "Sasamusa",
+         "photos" : [
+            {
+               "height" : 770,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107438701016419191171\"\u003eVicky Soni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAt93TMyrrWG1KRGT9-8zTqWI-DbJyAxTofQ3shWcbiYqIxxzvy-y7DpkAXiyBN01iN3D7F5W0ZZwEhsAS3mvcYDtf2vjFovn69Prtuy3lj0TBYd_-ea3qKb9ayycxRg2REhC99WjH6TS73hHGPfFSIQLuGhT76WIT4zuyzRcRs4pH-cJxOIPrUQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJYYGJIjQPkzkRvAkJ5nMXYiI",
+         "reference" : "ChIJYYGJIjQPkzkRvAkJ5nMXYiI",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5245175,
+               "lng" : 84.3605694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5257705302915,
+                  "lng" : 84.3617864302915
+               },
+               "southwest" : {
+                  "lat" : 26.52307256970849,
+                  "lng" : 84.3590884697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "8bf6dc8c171609ead4d47435a3f2df7e03b1bc4c",
+         "name" : "Canara Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111216353771202615659\"\u003eSonu Kumar Kushwaha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGGNu8yAJkGjINZQc2QmAvfuBD4GwYMPft3JgCcZX4Rww0AzqSkVlujnM5Ns5uFdpBUa4NhQkRVRJQm7n0e4kS8IJShsDyyyFKtYh1JYxR-cF3cIw5jsSkW41-dzY9Es1EhDvoNI-AwrIRPomx0vesjKCGhT_2O_RsDoW7qra01TYzhvkjL-tJg",
+               "width" : 3008
+            }
+         ],
+         "place_id" : "ChIJFQ6QkzYPkzkRCs4D_fhEKxI",
+         "plus_code" : {
+            "compound_code" : "G9F6+R6 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F6+R6"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJFQ6QkzYPkzkRCs4D_fhEKxI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.52449979999999,
+               "lng" : 84.36055829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5257587802915,
+                  "lng" : 84.3617835302915
+               },
+               "southwest" : {
+                  "lat" : 26.52306081970849,
+                  "lng" : 84.35908556970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "5dce94d745afc2b552fba1f297d155c620facdb1",
+         "name" : "Canara Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJmTGRkzYPkzkRC3DqZhWSGK8",
+         "plus_code" : {
+            "compound_code" : "G9F6+Q6 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F6+Q6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJmTGRkzYPkzkRC3DqZhWSGK8",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.52447009999999,
+               "lng" : 84.36047379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5257534802915,
+                  "lng" : 84.36173258029149
+               },
+               "southwest" : {
+                  "lat" : 26.5230555197085,
+                  "lng" : 84.35903461970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "0fdb8ea6532e70303afc3441a2be07213cdb7a7a",
+         "name" : "Pragati Tour& Travels",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJQfPdkzYPkzkR_L2yQnxmV4I",
+         "plus_code" : {
+            "compound_code" : "G9F6+Q5 Gopalganj, Bihar, India",
+            "global_code" : "7MR6G9F6+Q5"
+         },
+         "rating" : 3,
+         "reference" : "ChIJQfPdkzYPkzkR_L2yQnxmV4I",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "state bank ke pas, Sasamusa, Gopalganj"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5243471,
+               "lng" : 84.36039340000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5256725802915,
+                  "lng" : 84.36171003029152
+               },
+               "southwest" : {
+                  "lat" : 26.52297461970849,
+                  "lng" : 84.3590120697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "791ca76fe8fc26855279eeb1c566f989ac80eaf9",
+         "name" : "Axis Bank",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103805227012406503712\"\u003eAlam Fateh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAysGQTdLWuK9BEr0gHUAkNH5JRtdFhvDVyEBnsw5Y5L8l_hOw35Vcb3Gfun4ts8zHx7gmoYOUwyOneTHZ3-E73BL3qJVUKs0NNfdDMJZykoIa-XEUI-nfDDK31n_TYXfCEhDXFybihjx8Y_tqR6fzkhCEGhRBXOBkwtjGPnlUNwGyR-80Rd_foQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqcA1rjYPkzkRYo5vRtwmGUU",
+         "plus_code" : {
+            "compound_code" : "G9F6+P5 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F6+P5"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJqcA1rjYPkzkRYo5vRtwmGUU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.524558,
+               "lng" : 84.361553
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5259245302915,
+                  "lng" : 84.36292763029151
+               },
+               "southwest" : {
+                  "lat" : 26.5232265697085,
+                  "lng" : 84.36022966970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "bf080a15ff0885bfad2e15fa947389303ee408d9",
+         "name" : "HDFC Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104673141205748589336\"\u003eHDFC Bank ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgTd1YVT41R1fxeoTWEjUL3Bxy8yQWhZ_j3Y-cbZNu-uIixDxO_yVrqQAaUo9V8Z5qRYCNgdFDRAAT2sP-rlhtJ3dVulCKpgSEwMWbXsPW6EMBv_62sml3fbG116d9FIuEhB6wvG01cjgdUCt5UqbHDlOGhRVw4s_tIgiz6fk3cQb3mHGMt4QSw",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ-0jF5TYPkzkR7C5usAFm4_k",
+         "plus_code" : {
+            "compound_code" : "G9F6+RJ Gopalganj, Bihar, India",
+            "global_code" : "7MR6G9F6+RJ"
+         },
+         "rating" : 2,
+         "reference" : "ChIJ-0jF5TYPkzkR7C5usAFm4_k",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "HDFC Bank ATM, Sasamusa, Gopalganj"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5242673,
+               "lng" : 84.3613325
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.52566043029151,
+                  "lng" : 84.3626402302915
+               },
+               "southwest" : {
+                  "lat" : 26.5229624697085,
+                  "lng" : 84.3599422697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "0aee61843328fc5d1e38d02bc80c163f71ce20c2",
+         "name" : "Sahara India",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112003005063698815073\"\u003ePankaj Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAk_lkFHDD4hsAwGDB4EOHEHTMrdGxgDff7kYgL-HH0j3DqSIyJKwlcYIDPNqazMlVcst8s1fOOMSTJWMfXxHY7Yqv5q24AmBdBh8_4_ckCRBwMDQvCt5rxNF1nGlLxA5HEhBJrAlPdT5tkUHm0avpv41kGhSo8utb3zc5BwyOTSvQueW45SNhOQ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJSYPc7zYPkzkRBfUl40AtsCs",
+         "plus_code" : {
+            "compound_code" : "G9F6+PG Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F6+PG"
+         },
+         "rating" : 3,
+         "reference" : "ChIJSYPc7zYPkzkRBfUl40AtsCs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.525125,
+               "lng" : 84.35973760000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5264370802915,
+                  "lng" : 84.36103773029151
+               },
+               "southwest" : {
+                  "lat" : 26.5237391197085,
+                  "lng" : 84.35833976970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "14d83d69358cdc0b0f59ddd9b990edb9e0049552",
+         "name" : "BSNL EXCHANGE",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112003005063698815073\"\u003ePankaj Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA62a2-z-WEa7A9CV8XTDIAiJvO1v-7zYf0Nuy9gHkyQbF8f_zMfKZCV_ybFHLK-dDgJu1_vGyQC3qPYFpvzizJIlasizgw5q6c2w7IHpqnmm3ZvpIuL_7Km9akJZNiioxEhC-xR17IIxzhQHZ6sOOTsycGhSuL3V2Y-y-uwJ1kBofIEjI24M78w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJabdxoTYPkzkRL3mRt_HUt7U",
+         "plus_code" : {
+            "compound_code" : "G9G5+3V Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G5+3V"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJabdxoTYPkzkRL3mRt_HUt7U",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Station Road, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.52585,
+               "lng" : 84.360044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5272532802915,
+                  "lng" : 84.36146008029151
+               },
+               "southwest" : {
+                  "lat" : 26.5245553197085,
+                  "lng" : 84.35876211970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "cd557c65dd1f952577ae6265d83105fbeca2a19a",
+         "name" : "Axis Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJqcA1rjYPkzkR2jsP1CIflqw",
+         "plus_code" : {
+            "compound_code" : "G9G6+82 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G6+82"
+         },
+         "rating" : 5,
+         "reference" : "ChIJqcA1rjYPkzkR2jsP1CIflqw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "opposite Railway Station, Mushafir Bhawan Sasamusa, opposite Railway Station"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5236042,
+               "lng" : 84.3603043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5250486302915,
+                  "lng" : 84.36176458029149
+               },
+               "southwest" : {
+                  "lat" : 26.5223506697085,
+                  "lng" : 84.35906661970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/train-71.png",
+         "id" : "75ae3f34f2d3dfbcba425eb637cb63619054f3c8",
+         "name" : "Sasa Musa",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109733212223132171928\"\u003eNandu Barnawal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqE2dNNVGj0c-v2OROomU0aKTtxbS4do0wPVK7sPRlja0bEVyePGyFwUbtvow29mg8-OIZXK-vpPnFm9636iFaGgau0UUc--KmcfeHJEmyQT1P4joOTvZXZQLj7EtCGnhEhAxo0aSMYGYUdH18z8TLS4QGhQ-BEnBS59cWSQtI5XDi5jKthZjaw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJcTqsnzYPkzkRXodC_e5HBzE",
+         "plus_code" : {
+            "compound_code" : "G9F6+C4 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F6+C4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJcTqsnzYPkzkRXodC_e5HBzE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34,
+         "vicinity" : "Station Road, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5231588,
+               "lng" : 84.36296489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5244615802915,
+                  "lng" : 84.36424773029151
+               },
+               "southwest" : {
+                  "lat" : 26.52176361970849,
+                  "lng" : 84.36154976970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "0b228eafef517dc05859b4a94689ae7bfedcaf4d",
+         "name" : "State Bank Of India ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104310527053113550110\"\u003eJai Chaurasiya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAIDRnz9XAzRk2WyvmkSaskLu2oTl3BAmn5vFOjGpwCVwjvWAypqlH8Gh6XENIdxk4gSTHk4wqVysd9PwOkOTyGKfYjbJLkIj-IDSDFBaxG3spe3XQuhqNV3qB-ODzug6eEhCYsdmZBtMwSmge0M-5bIcbGhSyehHzfed9vbSC_t0a7mxUdD2Lpw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJaVQkpDcPkzkRwRZo3gIMVCY",
+         "plus_code" : {
+            "compound_code" : "G9F7+75 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F7+75"
+         },
+         "rating" : 3,
+         "reference" : "ChIJaVQkpDcPkzkRwRZo3gIMVCY",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.52313539999999,
+               "lng" : 84.3630065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5244336302915,
+                  "lng" : 84.3642827802915
+               },
+               "southwest" : {
+                  "lat" : 26.52173566970849,
+                  "lng" : 84.3615848197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "9e2f1d5ae84d47b3d0821618b84fff9e9e50fa6b",
+         "name" : "State Bank of India",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111216353771202615659\"\u003eSonu Kumar Kushwaha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH2immhMxSqfnFpnPiFj_TvymdV9tUbMjzRo8Q-iNLl4o5gLox5bYqCrTchMDLQBzxwZAYDr4toP9eWiQgzM4tt125WDOzF1rmk-4lsUNTsdUiD4UY-6hrByu_dyNcH9HEhCZeqFGZAZYEXB-t7vrqsNvGhQhJ_DNirP290BMoA1aaEYe514h-Q",
+               "width" : 1792
+            }
+         ],
+         "place_id" : "ChIJXRvIljYPkzkRdCle6GP3Deo",
+         "plus_code" : {
+            "compound_code" : "G9F7+76 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9F7+76"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJXRvIljYPkzkRdCle6GP3Deo",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Gopalganj district, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.522252,
+               "lng" : 84.3636496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5235772802915,
+                  "lng" : 84.36496563029151
+               },
+               "southwest" : {
+                  "lat" : 26.5208793197085,
+                  "lng" : 84.3622676697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "a8ce6462e5ea0adf46843189c4e10384e67b52d8",
+         "name" : "Bank of India ATM",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112003005063698815073\"\u003ePankaj Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl3ejlX7_KM6NOfo0GJ2YF0KdqC4mxQHOkjbCn_rplkMkrROmNpSLDzcV1695a4Ng6hdfHGuESAf6EhUPgdq-zMFXSZaHxmI8FSnqmxyz6eFZKtM9Uf14q8BGzOs79p-UEhBXA3aXcDB2sXV6i05JCjtUGhTqeB2HjpknQKg__EmZGJ7RgbXMyw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJD1DtlDcPkzkR3skknMYxyPU",
+         "plus_code" : {
+            "compound_code" : "G9C7+WF Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9C7+WF"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJD1DtlDcPkzkR3skknMYxyPU",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5278137,
+               "lng" : 84.3557414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5292015302915,
+                  "lng" : 84.3571431802915
+               },
+               "southwest" : {
+                  "lat" : 26.5265035697085,
+                  "lng" : 84.3544452197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3fce96f166a3dd1755f1f75329004e7b13d8cd15",
+         "name" : "Bharat Gas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112003005063698815073\"\u003ePankaj Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQDeW-x0v55AiuO4z6rr2SiD_Ee_tCrBHX1ebosVA1WW1HS4Ysnb_u6gItqBvQqLfMS83TgHICy9wNwUXUEEouU7PZwCnHRcAnYkypudZeLlV7zouVOZ_1xveQPA2ryWREhAimQ-HnL2a26ggs_oKPSmrGhRM4aMhM1qUMnNmYLPBabVMP6mIXw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJK2nuFDMPkzkRVR7S3RwUVUo",
+         "plus_code" : {
+            "compound_code" : "G9H4+47 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9H4+47"
+         },
+         "rating" : 2,
+         "reference" : "ChIJK2nuFDMPkzkRVR7S3RwUVUo",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Station Road, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5250495,
+               "lng" : 84.36079850000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5264614802915,
+                  "lng" : 84.36223038029151
+               },
+               "southwest" : {
+                  "lat" : 26.5237635197085,
+                  "lng" : 84.35953241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4db6ecbf91b0ef4fd9cd1fc2e204bab50bf13ca4",
+         "name" : "TEJNARAYAN ENTERPRISE",
+         "place_id" : "ChIJt5E3qykPkzkRzqRiXnCvK6U",
+         "plus_code" : {
+            "compound_code" : "G9G6+28 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G6+28"
+         },
+         "reference" : "ChIJt5E3qykPkzkRzqRiXnCvK6U",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "SASAMUSA POOJAMARKET"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5250495,
+               "lng" : 84.36079850000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5264614802915,
+                  "lng" : 84.36223038029151
+               },
+               "southwest" : {
+                  "lat" : 26.5237635197085,
+                  "lng" : 84.35953241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ab7e55bf6c7cabe41b0485242474fa332cd21044",
+         "name" : "Prince Kirana Store",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114223103482992151885\"\u003eRehan Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA100W2NWOqcgxxuTZzf9gdlFim452I2QZ-Glmr-aH0lOGwQSXG9gRzkxY2fihhZVt2T6XKfxr_fY0xzWK8J-gKN5z-nsbHCrii1nII3odafF5d_rzgw7b9jJ8Ab2WK_x_EhBiAkaTIAd2yL1e9q6DFdT6GhTiLWYeALG-i_0trr3gmmmf3Q4dpg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJj6VilDYPkzkR8io03rnQmCw",
+         "plus_code" : {
+            "compound_code" : "G9G6+28 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G6+28"
+         },
+         "rating" : 3,
+         "reference" : "ChIJj6VilDYPkzkR8io03rnQmCw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "near Canara Bank, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5250799,
+               "lng" : 84.3609948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5264288802915,
+                  "lng" : 84.36234378029151
+               },
+               "southwest" : {
+                  "lat" : 26.52373091970849,
+                  "lng" : 84.35964581970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "52ffb5ee19f05e6e9617fb269492d7e4b532ce9a",
+         "name" : "Niraj Footwear",
+         "place_id" : "ChIJTWkQAOcPkzkRGWxW9gW0p-s",
+         "plus_code" : {
+            "compound_code" : "G9G6+29 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G6+29"
+         },
+         "reference" : "ChIJTWkQAOcPkzkRGWxW9gW0p-s",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Gramin Bank Ke pachhim Siddi walla Dylan,Main road, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.525219,
+               "lng" : 84.3608495
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5265800302915,
+                  "lng" : 84.36221433029151
+               },
+               "southwest" : {
+                  "lat" : 26.5238820697085,
+                  "lng" : 84.35951636970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d79d0c0908c514622f0fe08c47d8e5f52201ad72",
+         "name" : "Bhartiya Beej Bhandar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJS3iVwDYPkzkR7h_AnDZKO2Y",
+         "plus_code" : {
+            "compound_code" : "G9G6+38 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G6+38"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJS3iVwDYPkzkR7h_AnDZKO2Y",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Station Road, Sasamusa"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5253076,
+               "lng" : 84.36093649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5266350302915,
+                  "lng" : 84.3622571302915
+               },
+               "southwest" : {
+                  "lat" : 26.5239370697085,
+                  "lng" : 84.35955916970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "76c08e7911ee4dd5dc909e397eb2a6aaf85c738f",
+         "name" : "Bhartiya beej bhandar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108177767492297723758\"\u003eVikash Kushwaha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd08VyaVkAEC00BZXFBnhUEpg1i4lfhuiVmgcVeaeJRdYj3avAwYkCtTpIRlRnf1zo3LtRyT7akfzlHIWPzyCnOYonfTElwGnKv0WAecWiO1_gPcSn_GBCkYg3yiGKq_uEhBsYfUtMbcwdNArRjn411HOGhSR0VnngK0l6KCy_3gJPZgn0oyjQA",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJ____PzQPkzkRmsNPu8IPQo0",
+         "plus_code" : {
+            "compound_code" : "G9G6+49 Sasamusa, Bihar, India",
+            "global_code" : "7MR6G9G6+49"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ____PzQPkzkRmsNPu8IPQo0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Main Road, Sasamusa"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.517646,
+               "lng" : 84.3620913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5242882,
+                  "lng" : 84.3735502
+               },
+               "southwest" : {
+                  "lat" : 26.5090389,
+                  "lng" : 84.352577
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "506ce726ad7cdb3eb93f623ca3a947cb96bf4201",
+         "name" : "Sirisiya",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101582267599217486777\"\u003eSheelu 9999\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa6b5occTTVyKWOHQDBYhwNGUWy9C-5XOTHrFHgxUd4mlSyP_7XV5YM3hIE8htJRrKcRHkx96i-m8_jlhMESlDyCZgIlcOohqD_3itstP0iwXX5yPJmtt63A1m65cLk6NEhCJ5e5h_y6ECcVLrIbyUoABGhTNLxmzMJSSCg21xhG0amOmYijhFA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJYaah7kgPkzkR3ejy0tmu9gs",
+         "reference" : "ChIJYaah7kgPkzkR3ejy0tmu9gs",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Sirisiya"
+      }
+   ],
+   "status" : "OK"
+}
